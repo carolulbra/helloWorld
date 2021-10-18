@@ -24,5 +24,5 @@ function draw() {
     textAlign(CENTER, CENTER);
     textFont('Lucida Console');
     fill('white');
-    text('Hello World!', windowWidth/2, 100);
+    text('Hello World!', windowWidth/2, windowHeight/2);
   }
